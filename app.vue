@@ -1,15 +1,15 @@
 <script setup>
 useHead({
   meta: [{ name: "viewport", content: "width=device-width, initial-scale=1" }],
-  link: [{ rel: "icon", href: "/favicon.ico" }],
+  link: [{ rel: "icon", href: "/favicon.png" }],
   htmlAttrs: {
     lang: "en",
   },
 });
 
-const title = "Nuxt Starter Template";
+const title = "Chaelin Kim | Frontend Developer";
 const description =
-  "A production-ready starter template powered by Nuxt UI. Build beautiful, accessible, and performant applications in minutes, not hours.";
+  "사용자 경험을 중심으로 접근성과 성능을 고려한 UI를 구현하는 프론트엔드 개발자입니다. 섬세한 마크업과 안정적인 구조 설계를 지향합니다.";
 
 useSeoMeta({
   title,
