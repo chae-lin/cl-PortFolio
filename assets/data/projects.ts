@@ -38,7 +38,7 @@ export const projects: ProjectItem[] = [
         "TailwindCSS + CSS 변수 기반 반응형 및 테마 구조 설계",
         "템플릿 기반 구조를 도입하여 신규 사이트 구축 공수 절감",
       ],
-      duration: "2025.09 ~ 2026.01",
+      duration: "2025.09 ~ 2026.03",
     },
     link: "Internal Platform (Non-public)",
   },
